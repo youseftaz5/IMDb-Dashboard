@@ -6,10 +6,6 @@
 ![alt text](https://github.com/youseftaz5/IMDb-Dashboard/blob/master/MookUP/IMDb-MookUP.jpg?=raw=true)
 
 
-<<<<<<< HEAD
-=======
-![alt text](https://github.com/youseftaz5/IMDb-Dashboard/blob/master/MookUP/IMDb-MookUP.jpg?=raw=true)
->>>>>>> origin/master
 
 ## Mindest
 
