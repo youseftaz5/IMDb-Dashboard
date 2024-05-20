@@ -1,0 +1,34 @@
+{
+  "name": "x",
+  "dataColors": [
+    "#f5c419"
+  ],
+  "visualStyles": {
+    "shape": {
+      "*": {
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontFace": "Arial",
+      "fontSize": 45
+    }
+  }
+}

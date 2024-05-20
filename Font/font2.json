@@ -1,0 +1,43 @@
+{
+  "name": "x",
+  "dataColors": [
+    "#f5c419"
+  ],
+  "visualStyles": {
+    "shape": {
+      "*": {
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "shape": [
+          {
+            "tileShape": "rectangle"
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "label": {
+      "color": "#ffffff"
+    },
+    "callout": {
+      "fontFace": "Amazon Ember Light",
+      "color": "#ffffff",
+      "fontSize": 35
+    }
+  }
+}
