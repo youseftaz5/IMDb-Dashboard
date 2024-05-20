@@ -1,7 +1,7 @@
 # IMDb Dashboard & Analysis
 ## Mook-up
 
-![alt text](https://https://https://github.com/youseftaz5/IMDb-Dashboard/blob/master/MookUP/IMDb-MookUP.jpg)
+![alt text](https://github.com/youseftaz5/IMDb-Dashboard/blob/master/MookUP/IMDb-MookUP.jpg?=raw=true)
 
 ## Mindest
 Before I getting start to preform analysis, creation of Dashboard. I have some questions I wanted to answer it:
